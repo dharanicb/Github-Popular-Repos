@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-button-container {
+  list-style-type: none;
+}
+.language-button {
+  font-size: 18px;
+  font-family: 'Roboto';
+  border-width: 0px;
+  margin: 20px;
+  cursor: pointer;
+  color: #1e293b;
+  background-color: transparent;
+}
+.add-button {
+  color: #0284c7;
+  border-style: solid;
+  border-color: #0284c7;
+  border-width: 1px;
+  border-radius: 8px;
+  height: 40px;
+  width: 100px;
+}

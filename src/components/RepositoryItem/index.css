@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.list-repo-container {
+  list-style-type: none;
+  background-color: rgb(203, 220, 231);
+  background-size: cover;
+  padding: 29px;
+  border-radius: 12px;
+  margin: 15px;
+  text-align: center;
+}
+.repo-img {
+  height: 150px;
+  align-self: center;
+}
+.name {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 28px;
+}
+.stars {
+  height: 20px;
+  margin: 6px;
+  align-self: center;
+}
+.container {
+  display: flex;
+}
+.count {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
